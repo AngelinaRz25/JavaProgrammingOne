@@ -9,6 +9,11 @@ import java.util.Arrays;
  */
 public class C8_4 {
 
+    /**
+     * Main Method
+     *
+     * @param args arguments from command line prompt
+     */
     public static void main(String[] args) {
         int[][] employees = {
             {2, 4, 3, 4, 5, 8, 8},
