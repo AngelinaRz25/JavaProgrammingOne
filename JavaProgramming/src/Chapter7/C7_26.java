@@ -37,6 +37,13 @@ public class C7_26 {
         }
     }
 
+    /**
+     * Method to check if two lists are equal
+     *
+     * @param list1 an array of integers
+     * @param list2 second array of integers
+     * @return boolean variable
+     */
     public static boolean equals(int[] list1, int[] list2) {
         if (list1.length != list2.length) {
             return false;
